@@ -3,6 +3,11 @@
 
 This project centers around creating an interactive and visually engaging sales analysis dashboard for **B&J Biscuit Company** in **Microsoft Excel**, utilizing Pivot Tables, Macros, and advanced Excel features for effective data analysis and business insights.
 
+![Dashboard 1](https://github.com/user-attachments/assets/fec2dfe7-b0f8-4a56-b1d6-f794ada5f671)
+![Dashboard 2](https://github.com/user-attachments/assets/5a66d173-8f4e-4fb8-895f-ffe4344f8257)
+
+
+
 #### Key Features and Functionalities:
 
 1. **Sales Performance Metrics:**
